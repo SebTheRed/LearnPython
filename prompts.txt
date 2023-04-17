@@ -1,0 +1,101 @@
+Hello, World!
+Variables and data types
+Basic arithmetic operations
+Strings and string manipulation
+User input and output
+Conditional statements
+Comparison operators
+Logical operators
+
+Lists and list methods
+
+For loops
+While loops
+Control flow statements
+Functions
+Arguments and parameters
+Return statements
+Scope
+Global variables
+Local variables
+Modules and importing modules
+Working with files
+Reading and writing files
+Exceptions and error handling
+Try and except blocks
+Raise statements
+Object-oriented programming
+Classes and objects
+Instance attributes
+Class attributes
+Constructors
+Inheritance
+Overriding methods
+Polymorphism
+Encapsulation
+Abstraction
+Dictionaries and dictionary methods
+Sets and set methods
+Tuples and tuple methods
+Comprehensions
+List comprehensions
+Dictionary comprehensions
+Set comprehensions
+Generator expressions
+Lambda functions
+Map and filter functions
+Decorators
+Generators
+Yield statements
+Coroutines
+Asyncio
+asyncio module
+await and async keywords
+Future and Task objects
+Event loops
+Asyncio patterns
+Regular expressions
+re module
+Character classes
+Anchors
+Quantifiers
+Grouping
+Lookaround assertions
+Match objects
+Web scraping
+Requests module
+Beautiful Soup module
+JSON data
+Parsing JSON data
+Writing JSON data
+APIs
+Working with APIs
+API authentication
+Web frameworks
+Flask framework
+Creating routes
+Passing variables to templates
+Rendering templates
+Jinja templating engine
+HTML forms
+Handling form data
+SQL databases
+Connecting to a database
+Creating tables
+Inserting data
+Selecting data
+Updating data
+Deleting data
+ORM frameworks
+SQLAlchemy ORM
+Defining models
+Querying the database
+Django framework
+Creating models
+Creating views
+URLs and routing
+Authentication and authorization
+Deployment
+Virtual environments
+Package management
+Pip and PyPI
