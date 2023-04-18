@@ -1,9 +1,15 @@
-
+listONums = [1, 2, 3, 3, 4, 5, 6]
+emptyList = []
+for num in listONums:
+  if num%2 == 0:
+    emptyList.append(num)
+print(emptyList)
 
 
 #Challenge 8
 #Lists AKA Arrays
-# Write a program that creates a list of numbers, removes any duplicates, and prints the result.
+# Write a Python program that takes a list of numbers and returns a new list with only the even numbers from the original list.
+#Use list comprehension to achieve this.
 
 '''
 append(item): Add an item to the end of the list.

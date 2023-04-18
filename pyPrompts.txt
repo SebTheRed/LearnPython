@@ -6,9 +6,7 @@ User input and output
 Conditional statements
 Comparison operators
 Logical operators
-
 Lists and list methods
-
 For loops
 While loops
 Control flow statements
@@ -17,6 +15,7 @@ Arguments and parameters
 Return statements
 Scope
 Global variables
+
 Local variables
 Modules and importing modules
 Working with files

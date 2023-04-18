@@ -1,4 +1,4 @@
-userAge = input("What's your age again?")
+userAge = int(input("What's your age again?"))
 
 if userAge < 18:
     print("Minor!")

@@ -1,4 +1,4 @@
-inputNum = input("Please enter number")
+inputNum = int(input("Please enter number"))
 
 if inputNum <= 0:
     print("Less than 1")
