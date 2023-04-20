@@ -15,7 +15,6 @@ Arguments and parameters
 Return statements
 Scope
 Global variables
-
 Local variables
 Modules and importing modules
 Working with files
@@ -24,6 +23,7 @@ Exceptions and error handling
 Try and except blocks
 Raise statements
 Object-oriented programming
+
 Classes and objects
 Instance attributes
 Class attributes
