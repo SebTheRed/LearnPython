@@ -23,7 +23,6 @@ Exceptions and error handling
 Try and except blocks
 Raise statements
 Object-oriented programming
-
 Classes and objects
 Instance attributes
 Class attributes
@@ -31,6 +30,7 @@ Constructors
 Inheritance
 Overriding methods
 Polymorphism
+
 Encapsulation
 Abstraction
 Dictionaries and dictionary methods
@@ -98,3 +98,5 @@ Deployment
 Virtual environments
 Package management
 Pip and PyPI
+
+TIME TO LEARN FLASK!!
