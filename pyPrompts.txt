@@ -32,10 +32,10 @@ Overriding methods
 Polymorphism
 Encapsulation
 Abstraction
-
 Dictionaries and dictionary methods
 
 Sets and set methods
+
 Tuples and tuple methods
 Comprehensions
 List comprehensions
