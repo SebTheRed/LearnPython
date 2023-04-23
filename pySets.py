@@ -1,3 +1,18 @@
+evenSet = {0, 2, 4, 6, 8, 10}
+oddSet = {0, 1, 3, 5, 7, 9}
+
+
+unionSet = evenSet.union(oddSet)
+intersectionSet = evenSet.intersection(oddSet)
+differenceSet = evenSet.difference(oddSet)
+subsetSet = evenSet.issubset(oddSet)
+superSet = evenSet.issuperset(evenSet)
+
+print(unionSet)
+print(intersectionSet)
+print(differenceSet)
+print(subsetSet)
+print(superSet)
 
 
 # Challenge 28
