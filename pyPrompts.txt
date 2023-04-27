@@ -33,14 +33,13 @@ Polymorphism
 Encapsulation
 Abstraction
 Dictionaries and dictionary methods
-
 Sets and set methods
-
 Tuples and tuple methods
 Comprehensions
 List comprehensions
 Dictionary comprehensions
 Set comprehensions
+
 Generator expressions
 Lambda functions
 Map and filter functions
