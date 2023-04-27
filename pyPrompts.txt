@@ -45,13 +45,12 @@ Map and filter functions
 Decorators
 Yield statements
 Coroutines
-
 await and async keywords
 
 Future and Task objects
+
 Event loops
 Asyncio patterns
-Regular expressions
 re module
 Character classes
 Anchors
