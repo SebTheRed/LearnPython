@@ -42,14 +42,12 @@ Set comprehensions
 Generator expressions
 Lambda functions
 Map and filter functions
-
 Decorators
-Generators
 Yield statements
 Coroutines
-Asyncio
-asyncio module
+
 await and async keywords
+
 Future and Task objects
 Event loops
 Asyncio patterns
