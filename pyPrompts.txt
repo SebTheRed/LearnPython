@@ -39,10 +39,10 @@ Comprehensions
 List comprehensions
 Dictionary comprehensions
 Set comprehensions
-
 Generator expressions
 Lambda functions
 Map and filter functions
+
 Decorators
 Generators
 Yield statements
@@ -67,6 +67,10 @@ Beautiful Soup module
 JSON data
 Parsing JSON data
 Writing JSON data
+
+
+
+
 APIs
 Working with APIs
 API authentication
