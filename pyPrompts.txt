@@ -47,26 +47,15 @@ Yield statements
 Coroutines
 await and async keywords
 Future and Task objects
-
 Event loops
-
 Asyncio patterns
-re module
-Character classes
-Anchors
-Quantifiers
-Grouping
-Lookaround assertions
-Match objects
+
 Web scraping
 Requests module
 Beautiful Soup module
 JSON data
 Parsing JSON data
 Writing JSON data
-
-
-
 
 APIs
 Working with APIs
