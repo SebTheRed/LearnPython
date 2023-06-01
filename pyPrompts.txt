@@ -50,6 +50,9 @@ Future and Task objects
 Event loops
 Asyncio patterns
 
+IN MY OPINION THIS IS WHERE THE BASE PYTHON ENDS.
+IDK IF IM GOING TO KEEP GOING, IM MORE INTERESTED IN LEARNING ABOUT GPIO PINS & RASPBERRY PIS
+
 Web scraping
 Requests module
 Beautiful Soup module
