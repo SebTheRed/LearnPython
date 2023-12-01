@@ -1,8 +1,8 @@
 "Explain the use of the print() function for output in Python."
-
 "Show how to declare variables using Python's dynamic typing."
 "Demonstrate the use of arithmetic operators (+, -, *, /) in Python."
 "Illustrate string manipulation in Python using concatenation and slicing."
+
 "Teach list operations in Python, focusing on indexing and appending."
 "Explain tuple usage in Python, emphasizing their immutability."
 "Show how to create and access elements in a Python dictionary."
