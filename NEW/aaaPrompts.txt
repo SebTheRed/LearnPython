@@ -3,11 +3,11 @@
 "Demonstrate the use of arithmetic operators (+, -, *, /) in Python."
 "Illustrate string manipulation in Python using concatenation and slicing."
 "Teach list operations in Python, focusing on indexing and appending."
-
 "Explain tuple usage in Python, emphasizing their immutability."
-
 "Show how to create and access elements in a Python dictionary."
+
 "Demonstrate the use of if, elif, and else statements in Python."
+
 "Illustrate the use of Python's for loop with examples."
 "Explain the while loop in Python and its use cases."
 "Describe how to define a function in Python using def."
