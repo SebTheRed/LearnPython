@@ -112,67 +112,67 @@ D: Answers to Challenges and Exercises
 Semester 3: Advanced Python Concepts and Raspberry Pi Basics
 ~~
 Chapter 1: Advanced Python Review
-1.1 Python Data Types and Structures
-1.2 Advanced Functions and Lambda Expressions
-1.3 Exception Handling and Debugging
-1.4 File Handling and Scripting
+20.1 Python Data Types and Structures
+20.2 Advanced Functions and Lambda Expressions
+20.3 Exception Handling and Debugging
+20.4 File Handling and Scripting
 
 Chapter 2: Object-Oriented Programming in Python
-2.1 Classes and Objects
-2.2 Inheritance and Polymorphism
-2.3 Encapsulation and Abstraction
-2.4 Magic Methods and Operator Overloading
+21.1 Classes and Objects
+21.2 Inheritance and Polymorphism
+21.3 Encapsulation and Abstraction
+21.4 Magic Methods and Operator Overloading
 
 Chapter 3: Raspberry Pi Setup and Python Integration
-3.1 Introduction to Raspberry Pi
-3.2 Setting Up the Raspberry Pi
-3.3 Basic Python for Raspberry Pi
-3.4 Interfacing Python with Raspberry Pi OS
+22.1 Introduction to Raspberry Pi
+22.2 Setting Up the Raspberry Pi
+22.3 Basic Python for Raspberry Pi
+22.4 Interfacing Python with Raspberry Pi OS
 
 Chapter 4: Working with GPIO
-4.1 Basics of GPIO in Raspberry Pi
-4.2 Python Libraries for GPIO Control
-4.3 Building a Simple Circuit: LEDs and Buttons
-4.4 Advanced GPIO: Sensors and Actuators
+23.1 Basics of GPIO in Raspberry Pi
+23.2 Python Libraries for GPIO Control
+23.3 Building a Simple Circuit: LEDs and Buttons
+23.4 Advanced GPIO: Sensors and Actuators
 
 Chapter 5: Python and the Camera Module
-5.1 Introduction to the Raspberry Pi Camera Module
-5.2 Capturing Images and Video in Python
-5.3 Processing Images with Python
-5.4 Building a Time-Lapse or Motion-Detection Camera
+24.1 Introduction to the Raspberry Pi Camera Module
+24.2 Capturing Images and Video in Python
+24.3 Processing Images with Python
+24.4 Building a Time-Lapse or Motion-Detection Camera
 
 ~~
 Semester 4: Real-World Applications and Advanced Projects
 ~~
 Chapter 6: Networking and Web Integration
-6.1 Basics of Networking in Python
-6.2 Creating Simple Web Servers and Clients
-6.3 Utilizing APIs with Python
-6.4 Integrating Raspberry Pi with Web Applications
+25.1 Basics of Networking in Python
+25.2 Creating Simple Web Servers and Clients
+25.3 Utilizing APIs with Python
+25.4 Integrating Raspberry Pi with Web Applications
 
 Chapter 7: IoT with Raspberry Pi and Python
-7.1 Introduction to IoT Concepts
-7.2 Building IoT Devices with Raspberry Pi
-7.3 Python for IoT: Data Collection and Analysis
-7.4 Communicating with Other Devices and IoT Platforms
+26.1 Introduction to IoT Concepts
+26.2 Building IoT Devices with Raspberry Pi
+26.3 Python for IoT: Data Collection and Analysis
+26.4 Communicating with Other Devices and IoT Platforms
 
 Chapter 8: Advanced Raspberry Pi Projects
-8.1 Home Automation Systems
-8.2 Robotics Projects with Raspberry Pi and Python
-8.3 Environmental Monitoring (Temperature, Humidity)
-8.4 Security Systems and Facial Recognition
+27.1 Home Automation Systems
+27.2 Robotics Projects with Raspberry Pi and Python
+27.3 Environmental Monitoring (Temperature, Humidity)
+27.4 Security Systems and Facial Recognition
 
 Chapter 9: Best Practices and Performance Optimization
-9.1 Writing Efficient Python Code
-9.2 Managing Raspberry Pi Resources
-9.3 Ensuring Security in IoT Devices
-9.4 Debugging and Testing Python Code on Raspberry Pi
+28.1 Writing Efficient Python Code
+28.2 Managing Raspberry Pi Resources
+28.3 Ensuring Security in IoT Devices
+28.4 Debugging and Testing Python Code on Raspberry Pi
 
 Chapter 10: Capstone Projects and Real-World Applications
-10.1 Designing a Complete IoT Solution
-10.2 Advanced Robotics Project with Real-Time Controls
-10.3 Developing a Smart Home Hub
-10.4 Final Project: Student's Choice
+29.1 Designing a Complete IoT Solution
+29.2 Advanced Robotics Project with Real-Time Controls
+29.3 Developing a Smart Home Hub
+29.4 Final Project: Student's Choice
 
 Appendices
 A: Python Libraries for Raspberry Pi
