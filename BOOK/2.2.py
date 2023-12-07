@@ -9,11 +9,16 @@
 
 #1. Exploring Arithmetic Operators: Create two variables and use each arithmetic operator. Experiment with different values (including negative numbers and zero).
 a = 67
-b = -27
+b = 27
 print("Subtraction: ", type(a-b), a-b)
 print("Addition: ", type(b+a), b+a)
 print("Multiplication: ", type(a*b), a*b)
 print("Division: ", type(a/b), a/b)
 
 #2. Logical Puzzles: Given three boolean variables x, y, and z, write expressions using logical operators that return True only if exactly two of the three variables are True.
-#   Bonus: Use comparison operators to compare the results of different arithmetic expressions (e.g., check if the sum of two numbers is greater than their product).
+x = True
+y = False
+z = True
+
+result = (x and y and not z) or (x and not y and z) or (not x and y and z)
+print(result) 
